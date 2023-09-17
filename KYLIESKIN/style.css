@@ -1,0 +1,14 @@
+.fs-7{font-size: 18px;}
+.text-black{color: #000000;}
+.bg-black{background-color: #000000;}
+.bg-blue{background-color: #bbcbe3;}
+.bg-pink{background-color: #e8c3d1;}
+.text-blue{color: lightskyblue;}
+::placeholder{font-size: 11px;}
+.bg-white{border-bottom: 2px solid #000000;}
+.fs-8{font-size: 11px;}
+.font-color{font-size: 13px; color: #777;}
+.btn-transparent{padding: 13px 60px; font-size: 11px; border: 1px solid black; color: #777;}
+.fs-9{font-size: 15px;}
+.line{border: 1px solid #777;}
+.vr-line{width: 2px; height: 90px; background-color: #777;}
